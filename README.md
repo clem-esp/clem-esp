@@ -1,4 +1,13 @@
-### Clémence Esposito
+### 👩‍💻 Clémence Esposito
+Bonjour !
+Je m'appelle Clémence, et je suis développeuse front-end chez Ascanio. 
+Je développe principalement sur React, mais je possède aussi des compétences en Angular.
+
+**://**
+[Découvrez mon site internet](https://www.clemenceesposito.fr)
+
+**in** 
+[Ou bien retrouvez-moi sur Linkedin](https://www.linkedin.com/in/clemenceesposito)
 
 <!--
 **clem-esp/clem-esp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
