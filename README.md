@@ -1,7 +1,6 @@
 ### 👩‍💻 Clémence Esposito
 Bonjour !
 Je m'appelle Clémence, et je suis développeuse front-end chez Ascanio. 
-Je développe principalement sur React, mais je possède aussi des compétences en Angular.
 
 **://**
 [Découvrez mon site internet](https://www.clemenceesposito.fr)
