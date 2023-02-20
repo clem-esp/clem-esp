@@ -1,6 +1,4 @@
 ### 👩‍💻 Clémence Esposito
-Bonjour !
-Je m'appelle Clémence, et je suis développeuse front-end chez Ascanio. 
 
 **://**
 [Découvrez mon site internet](https://www.clemenceesposito.fr)
