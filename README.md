@@ -1,11 +1,5 @@
 ### 👩‍💻 Clémence Esposito
 
-**://**
-[Découvrez mon site internet](https://www.clemenceesposito.fr)
-
-**in** 
-[Ou bien retrouvez-moi sur Linkedin](https://www.linkedin.com/in/clemenceesposito)
-
 <!--
 **clem-esp/clem-esp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
